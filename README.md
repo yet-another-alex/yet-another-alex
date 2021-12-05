@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alex and for now I'll leave this page pretty much as default as possible.
+- 👀 I’m interested in any type of software development.
+- 🌱 I’m currently learning everything I possibly can. Mostly programming languages I never used or heard of.
+- 📫 Find me on Twitter [@dqmhose](https://twitter.com/dqmhose)
