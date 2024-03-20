@@ -1,10 +1,4 @@
 <h1 align="center">Hi, I'm Alex and I develop stuff.</h1><br />
-<p align="center">
-  <a href="https://twitter.com/dqmhose"><img src="https://img.shields.io/badge/twitter-grey?logo=twitter"></a>
-  <a href="https://alex-does.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-yellowgreen?logo=hashnode"></a>
-  <a href="https://dqmhose.itch.io/"><img src="https://img.shields.io/badge/Itch-grey?logo=itch.io"></a>
-  <a href="https://www.xing.com/profile/Alexander_Hosefelder/cv"><img src="https://img.shields.io/badge/xing-darkcyan?logo=xing"></a>
-</p>
 Started with C/C++ and Java during university, went on to do C# .NET and Python. I'm trying to learn pretty much everything from Fortran to Golang to Swift. This page is supposed to document some of the side projects and code that might be useful to others.
 
 <br />
